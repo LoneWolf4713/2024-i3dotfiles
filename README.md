@@ -29,8 +29,12 @@ I uploaded a rice on r/unixporn and now they're intimidating me for dotfiles rep
  - MPD Album Art App: [Miniplayer](https://github.com/GuardKenzie/miniplayer) (add py-ueberzug yourself)
  - Conky Widgets: [Maaz](https://www.pling.com/p/1983289/)
  - Font: Iosevka
+ - Firefox: [PenguinFox Theme](https://github.com/p3nguin-kun/penguinFox)
+ - Firefox Startup Page: Tabliss
+ - Kitty Theme: [This Repo](https://github.com/dexpota/kitty-themes)
+ - 
 
-#### A lot of these won't look like mine setup in their default state, I've tweaked a lot of things, all that in dotfiles. 
+#### A lot of these won't look like mine setup in their default state, I've tweaked a lot of things, all that in dotfiles. But I DONOT recommend copying my dotfiles, instead install from the original sources and adopt whatever change you like in my dotfile to yours.
 ## Screenshots:
 ![enter image description here](https://i.imgur.com/TwbjDoe.png)
 ![enter image description here](https://i.imgur.com/Eju7z5m.png)
